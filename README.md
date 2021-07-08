@@ -1,6 +1,6 @@
 # <a href="https://ferius057.github.io">ferius057.github.io</a>
 
-In this repository, Github Pages, there will be several sites.
+These are my sites.
 
 <hr>
 
