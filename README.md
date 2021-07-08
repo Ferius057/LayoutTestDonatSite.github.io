@@ -1,2 +1,7 @@
-# LayoutTestDonatSite.github.io
-This repository contains the layout of a test donat site for Minecraft. This is just a template.
+# ferius057.github.io
+
+In this repository, Github Pages, there will be several sites.
+<hr>
+
+### LayoutTestDonatSite:
+This site contains the layout of a test donat site for Minecraft. This is just a template.
